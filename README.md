@@ -62,3 +62,5 @@ Right now my main focus is on:
 A lot of my best work starts as small internal tools first, then gets cleaned up into something reusable.
 
 If you're here for thoughtful workflows, market tooling, and practical automation, you're in the right place.
+
+<!-- profile-refresh: 2026-03-29T09:36:41Z -->
