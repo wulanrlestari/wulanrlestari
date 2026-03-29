@@ -2,7 +2,7 @@
 
 # Wulan R Lestari
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=900&lines=Operations+%E2%80%A2+Systems+%E2%80%A2+Market+Analysis;Building+useful+workflows+that+feel+simple+and+human;Currently+exploring+OKX+market+analysis+and+Polymarket+research)](https://github.com/wulanrlestari)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&center=true&vCenter=true&width=960&lines=Operations+%E2%80%A2+Systems+%E2%80%A2+Market+Analysis;Building+useful+workflows+that+feel+simple+and+human;Content+automation+for+Threads+%26+Instagram+%E2%80%A2+plus+market+research)](https://github.com/wulanrlestari)
 
 [![Website](https://img.shields.io/badge/Website-biver.id-111827?style=for-the-badge&logo=googlechrome&logoColor=white)](https://biver.id)
 [![Email](https://img.shields.io/badge/Email-wulan%40biver.id-0f766e?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wulan@biver.id)
@@ -15,6 +15,7 @@
 I like building workflows that are clear, lightweight, and actually useful.
 
 Right now my main focus is on:
+- content automation for Threads and Instagram
 - market analysis tooling
 - trading research workflows
 - automation that reduces noise instead of adding more of it
@@ -24,6 +25,7 @@ Right now my main focus is on:
 
 | Area | What I'm doing |
 |---|---|
+| Content Automation | Building practical workflows for Threads and Instagram that keep posting more consistent without feeling robotic |
 | OKX | Building lightweight market-analysis tooling for spot and swap market reading |
 | Polymarket | Researching prediction-market workflows for discovery, order-book checks, and market screening |
 | Automation | Turning repetitive operator tasks into cleaner, safer workflows |
@@ -35,6 +37,8 @@ Right now my main focus is on:
 ![Git](https://img.shields.io/badge/Git-111827?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111827?style=flat-square&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-111827?style=flat-square&logo=markdown&logoColor=white)
+![Threads](https://img.shields.io/badge/Threads-Content%20Automation-111827?style=flat-square&logo=threads&logoColor=white)
+![Instagram](https://img.shields.io/badge/Instagram-Workflow%20Systems-111827?style=flat-square&logo=instagram&logoColor=white)
 ![OKX](https://img.shields.io/badge/OKX-Market%20Analysis-111827?style=flat-square&logoColor=white)
 ![Polymarket](https://img.shields.io/badge/Polymarket-Research-111827?style=flat-square&logoColor=white)
 ![Automation](https://img.shields.io/badge/Automation-Useful%20Systems-111827?style=flat-square&logoColor=white)
@@ -44,6 +48,7 @@ Right now my main focus is on:
 - prefer practical systems over flashy complexity
 - care a lot about readability and operator experience
 - like tools that are fast, sharp, and easy to trust
+- care about automation that helps content stay consistent without turning it into something lifeless
 - try to keep analysis honest: bias-aware, risk-aware, and not gimmicky
 
 ## GitHub stats
